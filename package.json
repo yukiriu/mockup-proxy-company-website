@@ -1,0 +1,22 @@
+{
+  "name": "mockup-proxy-company-website",
+  "version": "1.0.0",
+  "description": "Mockup proxy company website",
+  "main": "na",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yukiriu/mockup-proxy-company-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yukiriu/mockup-proxy-company-website/issues"
+  },
+  "homepage": "https://github.com/yukiriu/mockup-proxy-company-website#readme",
+  "dependencies": {
+    "tailwindcss": "^2.1.2"
+  }
+}
